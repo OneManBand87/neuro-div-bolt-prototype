@@ -1,0 +1,3 @@
+# Microsoft Agent Framework scaffold requirements
+# Kept in ./maf so it doesn't affect the JS Slack app
+agent-framework
